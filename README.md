@@ -20,9 +20,9 @@ Feel free to check the playlist that was made by this recommendation system
   <img src="https://res.cloudinary.com/netizet/image/upload/v1592544824/IMG_20200619_123152_546_cuuguf.jpg" width="140" /> 
   <img src="https://res.cloudinary.com/netizet/image/upload/v1592544824/IMG_20200619_123156_595_r5xfic.jpg" width="140" />
 </p>
-1. https://open.spotify.com/playlist/2evgGdaDagUHvDqhNNG7pM?si=AUuP_vAlQ_mS0KOP1qMt6w<br>
-2. https://open.spotify.com/playlist/0vcZPqe7JOKqWOkRi62vid?si=fgcyCHbGRaCkTmgXQ0r_Hg<br>
-3. https://open.spotify.com/playlist/2yoeICv7TkSqnh220UMwIE?si=smdH2XCDQvq_t8AQk-S6og<br>
-4. https://open.spotify.com/playlist/6Buvk2gEbhZ4lJwlIQGUhE?si=eaZcUcSgRRq1Z6wEyAAu3w<br>
-5. https://open.spotify.com/playlist/2HmaeG1YCp4fzvextlLepg?si=j4KbuZhEQ6C-DJJs--75NQ<br>
-6. https://open.spotify.com/playlist/4pdGZJ8j5GIcAkfkrtkm5H?si=lRJQrAuERa6abHOPBYHKxQ<br>
+* [Music From Final Project 1](https://open.spotify.com/playlist/2evgGdaDagUHvDqhNNG7pM?si=AUuP_vAlQ_mS0KOP1qMt6w)
+* [Music From Final Project 2](https://open.spotify.com/playlist/0vcZPqe7JOKqWOkRi62vid?si=fgcyCHbGRaCkTmgXQ0r_Hg)
+* [Music From Final Project 3](https://open.spotify.com/playlist/2yoeICv7TkSqnh220UMwIE?si=smdH2XCDQvq_t8AQk-S6og)
+* [Music From Final Project 4](https://open.spotify.com/playlist/6Buvk2gEbhZ4lJwlIQGUhE?si=eaZcUcSgRRq1Z6wEyAAu3w)
+* [Music From Final Project 5](https://open.spotify.com/playlist/2HmaeG1YCp4fzvextlLepg?si=j4KbuZhEQ6C-DJJs--75NQ)
+* [Music From Final Project 6](https://open.spotify.com/playlist/4pdGZJ8j5GIcAkfkrtkm5H?si=lRJQrAuERa6abHOPBYHKxQ)
